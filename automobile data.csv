@@ -1,0 +1,39 @@
+﻿Material,Density (g/cm³),Cost ($/kg),Tensile Strength (MPa),Yield Strength (MPa),Corrosion Resistance,Thermal Conductivity (W/m·K),Sustainability Index (1-5)
+Aluminum,2.7,2.5,310,120,High,205,4
+Magnesium,1.74,3.5,250,80,Medium,156,3
+CFRP (Carbon Fiber Reinforced Polymer),1.6,10,600,400,High,0.5,5
+AHSS (Advanced High-Strength Steel),7.85,1.5,450,300,Medium,50,3
+Titanium,4.51,15,900,800,High,21.9,2
+PVC (Polyvinyl Chloride),1.4,1,50,40,Low,0.19,1
+Nylon,1.15,2,70,50,Medium,0.25,3
+Polycarbonate,1.2,3,70,60,Medium,0.19,3
+Steel,7.85,0.75,370,250,Medium,50,2
+Cast Iron,7,1,200,150,Low,40,1
+Copper,8.96,4.5,210,210,Low,385,2
+Brass,8.5,3,250,200,Medium,120,3
+Stainless Steel,8,3.5,520,290,High,16,4
+Polypropylene,0.9,1.2,40,30,Low,0.22,2
+Thermoplastic Elastomer (TPE),0.95,2.5,20,15,Medium,0.15,3
+Glass Fiber Reinforced Polymer (GFRP),1.8,7,400,300,High,0.3,4
+High-Density Polyethylene (HDPE),0.95,1,25,20,Medium,0.5,3
+Low-Density Polyethylene (LDPE),0.92,0.9,20,15,Low,0.3,2
+Polyurethane,1.2,4,60,40,Medium,0.25,3
+Natural Rubber,0.9,2,25,20,Medium,0.16,3
+Silicone,1,5,30,25,High,0.2,4
+Bismuth Telluride,7.2,40,50,35,Low,30,1
+PEEK (Polyether Ether Ketone),1.3,25,100,90,High,0.25,4
+Nylon 6/6,1.15,2.5,90,70,Medium,0.25,3
+High-Strength Steel,7.85,1.75,750,500,Medium,45,3
+Low-Alloy Steel,7.85,1.6,350,250,Medium,40,3
+UHMW (Ultra-High-Molecular-Weight Polyethylene),0.93,3,40,30,Medium,0.4,3
+Polyamide 12,1,3.5,50,40,Medium,0.2,4
+Acetal (Polyoxymethylene),1.41,2.8,70,60,Medium,0.25,3
+SMC (Sheet Molding Compound),1.7,6,200,150,Medium,0.3,3
+Ductile Iron,7,1.5,400,300,Medium,40,2
+Phenolic Resin,1.3,2.5,60,50,Medium,0.15,3
+E-Coat (Electrocoating),1.2,4,50,40,High,0.2,4
+BMC (Bulk Molding Compound),1.8,5,300,250,Medium,0.4,3
+Natural Fiber Composites,1.2,2.5,90,70,Medium,0.25,4
+Recycled Plastics,0.95,1,20,15,Low,0.3,5
+Conductive Polymers,1.2,5,40,30,Medium,0.25,3
+Bio-based Plastics,1,2,30,25,Medium,0.15,5
